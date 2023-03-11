@@ -2,6 +2,11 @@
 
 A project made with Python to detect and recognize American Sign Language gesture.
 
+BY
+
+* **CALLARD Baptiste**
+* **HARIVEL Alexia**
+
 ### Description
 
 We made this project for a course we took during an Erasmus exchange during the summer semester in 2022.
