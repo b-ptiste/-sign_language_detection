@@ -27,6 +27,17 @@ The archive is composed of :
 
 -   the CNN model store in the file : my_model_20_new.h5, my_model_60_new.h5, my_model_without_aug.h5
 
+### Results Preview
+
+With CNN :
+
+On the unpublished test set of the dataset used to train the model 
+![image](image/confusion_matrix_validation.png)
+
+On a completely new dataset. The model is able to generalize quite well.
+![image](image/confusion_matrix_new_data_set.png)
+
+
 ### Data set
 
 You can download the data set we used :
