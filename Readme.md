@@ -33,7 +33,7 @@ The archive is composed of :
 
 With CNN :
 
-On the unpublished test set of the dataset used to train the model 
+On the unseen test set of the dataset used to train the model 
 ![image](image/confusion_matrix_validation.png)
 
 On a completely new dataset. The model is able to generalize quite well.
