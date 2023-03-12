@@ -27,6 +27,8 @@ The archive is composed of :
 
 -   the CNN model store in the file : my_model_20_new.h5, my_model_60_new.h5, my_model_without_aug.h5
 
+![image](image/interface.png)
+
 ### Results Preview
 
 With CNN :
